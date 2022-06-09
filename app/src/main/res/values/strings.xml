@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomViewSample</string>
+    <string name="mentoring">Mentörlük</string>
+    <string name="mentoring_description">Üniversite Temsilci Yazarlığı></string>
+    <string name="icon">Icon</string>
+    <string name="robowars">Robowars</string>
+    <string name="robowars_description">Ön Başvuruları Başladı></string>
+    <string name="job_opportunities">İş Fırsatları</string>
+    <string name="job_opportunities_description">Uygun Pozisyonlar></string>
+</resources>
